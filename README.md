@@ -1,4 +1,6 @@
 # Epsilon-Code
+![Shield 1](https://img.shields.io/pypi/v/epsilon-code)
+
 Generate and debug Python code- with some help from AI
 
 ![Epsilon Code Logo](https://img.techpowerup.org/201013/epsilon-2.png)
