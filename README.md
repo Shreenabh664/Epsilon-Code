@@ -1,5 +1,9 @@
 # Epsilon-Code
 ![Shield 1](https://img.shields.io/pypi/v/epsilon-code)
+![Shield 2](https://img.shields.io/pypi/l/epsilon-code)
+![Shield 3](https://img.shields.io/pypi/format/epsilon-code)
+![Shield 4](https://img.shields.io/pypi/pyversions/epsilon-code)
+![Shield 5](https://img.shields.io/pypi/implementation/epsilon-code)
 
 Generate and debug Python code- with some help from AI
 
