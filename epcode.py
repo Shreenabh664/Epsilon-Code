@@ -1,5 +1,6 @@
 import os
 import openai
+from yapf.yapflib.yapf_api import FormatFile
 
 def getcode(secretKey, codeDescription):
 
@@ -31,6 +32,7 @@ def getcode(secretKey, codeDescription):
   outF = open("EpsilonCodeOutput.py", "a")
   outF.writelines(res)
   outF.close()
+  FormatFile("EpsilonCodeOutput.py", in_place=True)
 
 def getdebug(secretKey, mainError):
 
